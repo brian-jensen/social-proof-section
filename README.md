@@ -10,7 +10,7 @@ Thanks for checking out this front-end coding challenge.
 
 ### Links
 
-- Solution URL: [Social Proof Section](https://github.com/social-proof-section)
+- Solution URL: [Social Proof Section](https://github.com/brian-jensen/social-proof-section)
 - Live Site URL: [Social Proof Section](https://brian-jensen.github.io/social-proof-section/)
 
 ### Built with
